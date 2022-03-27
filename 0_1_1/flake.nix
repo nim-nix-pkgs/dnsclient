@@ -11,6 +11,7 @@
   inputs.src-dnsclient-0_1_1.ref   = "refs/tags/0.1.1";
   inputs.src-dnsclient-0_1_1.owner = "ba0f3";
   inputs.src-dnsclient-0_1_1.repo  = "dnsclient.nim";
+  inputs.src-dnsclient-0_1_1.dir   = "";
   inputs.src-dnsclient-0_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
