@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "0_0_1",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "0_0_2",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
       },
       "locked": {
         "dir": "0_0_3",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
@@ -120,11 +120,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
@@ -147,11 +147,11 @@
       },
       "locked": {
         "dir": "0_1_2",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
@@ -174,11 +174,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
@@ -201,11 +201,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657152902,
-        "narHash": "sha256-AFtZuitnBR9Ed7esD5dpdVhgzMxWmwp3fWANKC4CS0I=",
+        "lastModified": 1658017890,
+        "narHash": "sha256-uhgFrDuQ5iSN9LPlGyFXOZHx8orJot9o1c6oTDaXfnE=",
         "owner": "nim-nix-pkgs",
         "repo": "dnsclient",
-        "rev": "3a1924ab5f8701217021d7b97d8db6f8b2a3a4ab",
+        "rev": "d46aedd84a42e15ea9514cfdd5089e0653a8c5fc",
         "type": "github"
       },
       "original": {
