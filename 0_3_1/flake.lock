@@ -39,22 +39,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-dnsclient-master": "src-dnsclient-master"
+        "src-dnsclient-0_3_1": "src-dnsclient-0_3_1"
       }
     },
-    "src-dnsclient-master": {
+    "src-dnsclient-0_3_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1666606252,
-        "narHash": "sha256-x9Q14I6BkJp1hRo6+MvOhDZgNGbdGkJk8cJj8x8oKd8=",
+        "lastModified": 1663809690,
+        "narHash": "sha256-eYATbOCbL6ATGWOMKKKQP4fZ5pPWDEA1iT5G7fp+bo8=",
         "owner": "ba0f3",
         "repo": "dnsclient.nim",
-        "rev": "fcd7443634b950eaea574e5eaa00a628ae029823",
+        "rev": "6647ca8bd9ffcc13adaecb9cb6453032063967db",
         "type": "github"
       },
       "original": {
         "owner": "ba0f3",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.3.1",
         "repo": "dnsclient.nim",
         "type": "github"
       }
